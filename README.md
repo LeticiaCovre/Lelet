@@ -1,7 +1,7 @@
 # Lelet
 Boas vindas ao meu perfil 💕💕🎀✨
 
-Meu nome é: Leticía Covre
+Meu nome é: **Leticía Covre**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
